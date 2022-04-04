@@ -28,7 +28,7 @@ Fav is my favorite part which is also affected by my bad time usage. I think I c
 
 Sharing data was also a new thing for me to get used to it. I came up with a solution but I'm not very content with it. It could be better.
 
-Getting notification is the trickiest part of this challenge in my opinion. I've done it on my other project 'doyur'. (I did yeah.. What?). But it was hell. So it would take more than 16 hours to make it correctly.
+Getting notification is the trickiest part of this challenge in my opinion. I've done it on my other project 'doyur'. (I did yeah.. What?). But it was hell. So it would take more than 16 hours to do it correctly.
 
 By that, if the client means reading comics on tv or his/her watch, NO!
 
