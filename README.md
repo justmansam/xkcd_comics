@@ -39,4 +39,4 @@ It was great a experience overall. I had fun learning new ways and not being abl
 
 And actually, I found the solution on GitHub (https://github.com/fireflyfif/shortcut-android-challenge) in the first place but you know, it wouldn't be nice at all ;) OK maybe some inspiration.. but thats all. I know, "the best programmers write no code" so I could've used it if things were different but this was for fun.
 
-Thank you again.
+Thank you!
