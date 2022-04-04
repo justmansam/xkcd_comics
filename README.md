@@ -30,7 +30,7 @@ Sharing data was also a new thing for me to get used to it. I came up with a sol
 
 Getting notification is the trickiest part of this challenge in my opinion. I've done it on my other project 'doyur'. (I did yeah.. What?). But it was hell. So it would take more than 16 hours to make it correctly. Yeah, maybe 16 and a half would be fine!
 
-By that, if the client wants to read comics on tv or watch NO!
+By that, if the client means reading comics on tv or his/her watch, NO!
 
 
 ## Final Comments:
