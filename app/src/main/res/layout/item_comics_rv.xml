@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFEB3B"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/comicsCardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/foodItemImageView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/comicsImageView"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:adjustViewBounds="true"
+                android:background="#FFEB3B" />
+
+            <TextView
+                android:id="@+id/comicsNumberTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignStart="@+id/comicsImageView"
+                android:layout_alignTop="@+id/comicsImageView"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="16dp"
+                android:paddingStart="4dp"
+                android:paddingLeft="4dp"
+                android:paddingEnd="4dp"
+                android:paddingRight="4dp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#0000ffff"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                tools:text="number" />
+
+            <TextView
+                android:id="@+id/uidTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/comicsNumberTextView"
+                android:layout_alignStart="@+id/comicsNumberTextView"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="8dp"
+                android:text=""
+                android:textColor="@android:color/transparent" />
+
+            <TextView
+                android:id="@+id/keyTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/uidTextView"
+                android:layout_alignStart="@+id/uidTextView"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="8dp"
+                android:text=""
+                android:textColor="@android:color/transparent" />
+
+            <TextView
+                android:id="@+id/comicsYearTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignEnd="@+id/comicsImageView"
+                android:layout_alignBottom="@+id/comicsImageView"
+                android:layout_marginEnd="16dp"
+                android:layout_marginBottom="16dp"
+                android:paddingStart="4dp"
+                android:paddingLeft="4dp"
+                android:paddingEnd="4dp"
+                android:paddingRight="4dp"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#0000ffff"
+                android:textSize="10sp"
+                android:textStyle="bold"
+                tools:text="date" />
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>
+
