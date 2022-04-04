@@ -35,6 +35,6 @@ By that, if the client wants to read comics on tv or watch NO!
 
 ## Final Comments:
 
-It was great experience overall. I had fun learning new ways and not being able to implement them correctly! Thanks for that. It was a cure for my ego :)
+It was great a experience overall. I had fun learning new ways and not being able to implement them correctly! Thanks for that. It was a cure for my ego :)
 
-And actually I found the solution on GitHub (https://github.com/fireflyfif/shortcut-android-challenge) in the firstplace but you know, it wouldn't be nice ;)
+And actually, I found the solution on GitHub (https://github.com/fireflyfif/shortcut-android-challenge) in the first place but you know, it wouldn't be nice at all ;)
