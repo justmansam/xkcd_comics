@@ -1,7 +1,7 @@
 
 # Shortcut Android Challenge
 
-Checklist:
+## Checklist:
 
 * browse through the comics - DONE
 * see the comic details, including its descriptions - DONE
@@ -13,7 +13,7 @@ Checklist:
 * support multiple form factors - INDIFFERENT
 
 
-Challenge Log:
+## Challenge Log:
 
 It took half of my time (almost 8 hours) to figure out how to get json data appropriately which I've never done before. The solution I came up with is probably quite a long and painful method, but it still works to some extent.
 It has some issues though. It takes a very long time to process data and show it on the screen simply because there is a huge number of comics. So I had to cut the number.
@@ -37,4 +37,4 @@ By that, if the client wants to read comics on tv or watch NO!
 
 It was great experience overall. I had fun learning new ways and not being able to implement them correctly! Thanks for that. It was a cure for my ego :)
 
-And actually I found the solution on GitHub (https://github.com/fireflyfif/shortcut-android-challenge) in the firstplace but you know.. it wouldn't be nice ;)
+And actually I found the solution on GitHub (https://github.com/fireflyfif/shortcut-android-challenge) in the firstplace but you know, it wouldn't be nice ;)
