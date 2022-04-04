@@ -26,3 +26,7 @@ I had no time for comic explanations. Who does? :)
 
 Fav is my favorite part which is also affected by my bad time usage. I think I could have done it with either SQLlite or ROOM.
 
+Sharing data was also a new thing for me to get used to it. I came up with a solution but I'm not very content with it. It could be better.
+
+Getting notification is the trickiest part of this challenge in my opinion. I've done it on my other project. But it was hell. So it would take more than 16 hours to make it correctly. Yeah, maybe 16 and a half would be fine!
+
