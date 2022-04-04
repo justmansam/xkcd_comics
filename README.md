@@ -33,8 +33,8 @@ Getting notification is the trickiest part of this challenge in my opinion. I've
 By that, if the client wants to read comics on tv or watch NO!
 
 
-Final Comments:
+## Final Comments:
 
 It was great experience overall. I had fun learning new ways and not being able to implement them correctly! Thanks for that. It was a cure for my ego :)
 
-And actually I found the solution on GitHub () but hey who does that!
+And actually I found the solution on GitHub (https://github.com/fireflyfif/shortcut-android-challenge) in the firstplace but you know.. it wouldn't be nice ;)
